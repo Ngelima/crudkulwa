@@ -36,6 +36,7 @@ if(isset($_POST['submit'])){
 
  <form method="post">
   <div class="form-group">
+    <h2>welcome</h2>
     <label>Name</label>
    <input type="text" class="form-control" placeholder="Enter your name" name="name" autocomplete="off">
   </div>
